@@ -1,7 +1,23 @@
 {
   "name": "nlw-ia-web",
-  "private": true,
-  "version": "0.0.0",
+  "description": "Gerador de títulos e descrições para o Youtube a partir de um vídeo e palavras-chave usando IA",
+  "author": {
+    "name": "Andrey Araújo"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "vite",
+    "typescript",
+    "eslint",
+    "prettier",
+    "tailwindcss",
+    "lucide-react",
+    "radix-ui"
+  ],
+  "license": "MIT",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
