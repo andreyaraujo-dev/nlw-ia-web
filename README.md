@@ -44,4 +44,6 @@ Inicie a aplicação
 
 ```bash
   yarn dev
+  # ou
+  npm run dev
 ```
